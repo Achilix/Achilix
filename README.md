@@ -1,16 +1,47 @@
-## Hi there 👋
+### 👋 Hello! I'm **Hatim Marouach** — Full‑Stack Developer & Tech Explorer
 
-<!--
-**Achilix/Achilix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student in Computer Engineering** @ EST Essaouira (2023–2025)  
+🧪 Passionate about building smart, efficient, and scalable software — from low-level C++ simulations to full-stack web and mobile apps.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills & Technologies
+
+**Languages:**  
+`C` `C++` `Java` `Python` `JavaScript` `PHP` `Kotlin` `Shell`
+
+**Frameworks & Tools:**  
+- Web: `HTML`, `CSS`, `JavaScript`, `Laravel`  
+- Software: `JavaFX`, `JDBC`, `DAO`, `Pygame`  
+- Mobile: `Kotlin`, `Android`  
+- Databases: `MySQL`, `PostgreSQL`, `SQLite`, `MongoDB`  
+- Other: `Git`, `GitHub`, `Linux`, Network Configuration
+
+---
+
+### 🚀 Projects
+
+- 🎮 **2D Game in Pygame** — Classic mechanics and sprite control  
+- 🧫 **Bacteria Ecosystem Simulation in C++** — Simulates evolution in an isolated digital environment  
+- 🏢 **Room Management App (JavaFX & JDBC)** — Desktop app with clean DAO architecture  
+- 🌐 **RESTful API in Laravel** — Invoice management: create, update, delete with full backend logic  
+- 📅 **Event Web App for University** — A Laravel-based event management portal for students
+
+---
+
+### 📫 Get in Touch
+
+- 📧 hatimmarouach1@gmail.com  
+- 🌐 [GitHub.com/Achilix](https://github.com/Achilix)
+
+---
+
+### ⚡ Fun Facts
+
+- 🏀 Basketball & 🏄 Surfing are my escape zones  
+- 🎵 I enjoy music and its rhythmic logic just like code  
+- 💻 Always learning and building — from Linux to Laravel, from shell scripts to mobile apps
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Achilix&show_icons=true&theme=radical)
