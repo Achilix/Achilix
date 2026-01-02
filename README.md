@@ -89,5 +89,3 @@
 Basketball • Surfing • Music • Continuous Learning
 
 ---
-
-![GitHub Snake Animation](https://github.com/Achilix/Achilix/blob/output/github-contribution-grid-snake.svg)
