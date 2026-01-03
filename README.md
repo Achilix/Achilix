@@ -59,12 +59,11 @@ I'm passionate about building everything from low‑level simulations in C/C++ t
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Achilix&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Achilix&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Achilix&theme=tokyonight&hide_border=true)
+![Public Repos](https://img.shields.io/badge/dynamic/json?logo=github&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAchilix&style=for-the-badge&labelColor=2C3E50&color=3498DB)
+![Total Stars](https://img.shields.io/github/stars/Achilix?style=for-the-badge&logo=github&labelColor=2C3E50&color=F39C12&label=Total%20Stars)
+![Followers](https://img.shields.io/github/followers/Achilix?style=for-the-badge&logo=github&labelColor=2C3E50&color=9B59B6&label=Followers)
+![Profile Views](https://komarev.com/ghpvc/?username=Achilix&color=blue&style=for-the-badge&label=Profile%20Views)
 
 </div>
 
