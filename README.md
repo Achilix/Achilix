@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm passionate about building everything from low‑level simulations in C/C++ to modern full‑stack web and mobile applications. Currently pursuing my Bachelor's in Computer Engineering while gaining practical experience through internships and personal projects.
+I'm passionate about building everything from low‑level simulations in C/C++ to modern full‑stack web and mobile applications. Currently pursuing my Bachelor's in Computer Engineering while gaining hands-on experience through internships and personal projects. I specialize in backend development with Laravel, frontend work with React & Next.js, and exploring full-stack solutions.
 
 ---
 
@@ -72,27 +72,27 @@ I'm passionate about building everything from low‑level simulations in C/C++ t
 
 ## 🎯 Featured Projects
 
-### 🎮 [2D Game](https://github.com/Achilix/project-link) • `Python` `Pygame`
-Designed and implemented classic game mechanics, sprite animation, and collision handling.
+### 🎮 [2D Game](https://github.com/Achilix/firstgame) • `Python` `Pygame`
+A classic game implementation with sprite animation and collision handling logic.
 
-### 🧫 [Bacteria Ecosystem Simulation](https://github.com/Achilix/project-link) • `C++` `OOP`
-Simulated bacterial evolution and interaction in an isolated digital environment using object‑oriented design.
+### 🕐 [Digital Clock](https://github.com/Achilix/clock) • `CSS` `HTML` `JavaScript`
+Beautiful and responsive digital clock application with real-time updates.
 
-### 🏢 [Room Management Application](https://github.com/Achilix/project-link) • `JavaFX` `JDBC` `DAO`
-Desktop application with clean DAO architecture and database persistence. 
+### 🏢 [Insurance Dashboard](https://github.com/Achilix/inscdashboard) • `PHP`
+Dashboard application for managing and visualizing insurance-related data.
 
-### 🌐 [Invoice Management REST API](https://github.com/Achilix/project-link) • `Laravel` `REST API`
-Full CRUD backend with structured routing, controllers, and database integration. 
+### 🔒 [Flash Security App](https://github.com/Achilix/flsh) • `PHP`
+Security-focused application built with PHP for comprehensive data protection.
 
-### 📅 [University Event Management Platform](https://github.com/Achilix/project-link) • `Laravel` `MySQL`
-Web application allowing students to view, register, and manage university events. 
+### 📝 [Pre-Registration System - UCA](https://github.com/Achilix/preinscreption-UCA) • `PHP`
+Digitalized student pre-registration platform for university enrollment workflows.
 
-### 📝 [Online University Pre‑Registration Platform](https://github.com/Achilix/project-link) • `Laravel` `PHP`
-Digitalized student pre‑registration workflows with form validation and database storage. 
+### 📅 [Pre-Inscription App](https://github.com/Achilix/preisnc) • `Blade` `Laravel`
+University pre-inscription web application with form validation and database integration.
 
 <div align="center">
 
-**[➡️ View More Projects](https://github.com/Achilix?tab=repositories)**
+**[➡️ View All Projects](https://github.com/Achilix?tab=repositories)**
 
 </div>
 
