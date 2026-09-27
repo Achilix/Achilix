@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hatimmarouach1@gmail.com)
 
-🎓 Computer Engineering Student @ EST Essaouira &nbsp;|&nbsp; 📍 Morocco
 
 </div>
 
